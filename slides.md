@@ -171,9 +171,9 @@ Yuhei FUJITA
 
 上が日本、下が世界
 
-![Alt text](images/google-trends-japan.png)
+![Alt text](/images/google-trends-japan.png)
 
-![Alt text](images/google-trends-global.png)
+![Alt text](/images/google-trends-global.png)
 
 ---
 layout: statement
@@ -189,7 +189,7 @@ layout: statement
 
 <div>
 
-![Alt text](images/frontend-conf-okinawa-2022.png)
+![Alt text](/images/frontend-conf-okinawa-2022.png)
 
 </div>
 
@@ -314,7 +314,7 @@ PWAから共有する
 
 <div>
 
-<img src="images/web-share-api.gif" alt="Web Share API" style="max-width: 100%; height: 450px;">
+<img src="/images/web-share-api.gif" alt="Web Share API" style="max-width: 100%; height: 450px;">
 
 </div>
 
@@ -408,7 +408,7 @@ PWAに共有する
 
 <div>
 
-<img src="images/web-share-target-api.gif" alt="Web Share API" style="max-width: 100%; height: 450px;">
+<img src="/images/web-share-target-api.gif" alt="Web Share API" style="max-width: 100%; height: 450px;">
 </div>
 
 <div class="col-span-2">
@@ -510,7 +510,7 @@ layout: statement
 
 <div>
 
-<img src="images/shortcuts-api.gif" alt="Shortcuts API" style="max-width: 100%; height: 450px;">
+<img src="/images/shortcuts-api.gif" alt="Shortcuts API" style="max-width: 100%; height: 450px;">
 
 </div>
 
@@ -565,7 +565,7 @@ layout: statement
 
 Web Share API
 
-<img src="images/web-share-api.gif" alt="Web Share API" style="max-width: 100%; height: 400px;">
+<img src="/images/web-share-api.gif" alt="Web Share API" style="max-width: 100%; height: 400px;">
 
 </div>
 
@@ -573,7 +573,7 @@ Web Share API
 
 Web Share Target API
 
-<img src="images/web-share-target-api.gif" alt="Web Share Target API" style="max-width: 100%; height: 400px;">
+<img src="/images/web-share-target-api.gif" alt="Web Share Target API" style="max-width: 100%; height: 400px;">
 
 </div>
 
@@ -581,7 +581,7 @@ Web Share Target API
 
 Shortcuts API
 
-<img src="images/shortcuts-api.gif" alt="Shortcuts API" style="max-width: 100%; height: 400px;">
+<img src="/images/shortcuts-api.gif" alt="Shortcuts API" style="max-width: 100%; height: 400px;">
 
 </div>
 
